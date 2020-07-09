@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi , are you guys having fun ?  👋
   - 🤔 My name is Long 
-  - I'm from Hai Duong 
-  - I'm a 2nd year student at HaNoi Univercity of Industry
+  - 💬 I'm from Hai Duong 
+  - 📫 I'm a 2nd year student at HaNoi Univercity of Industry
   - 🔭 I’m currently working on Haui
   - 🌱 I’m currently learning Information Technology
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
-  - 📫 How to reach me: ...
   - 😄 Pronouns: ...
   - ⚡ Fun fact: keep calm and be happy !
 
