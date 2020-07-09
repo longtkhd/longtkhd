@@ -1,4 +1,5 @@
 ### Hi there 👋
+-🤔 My name is Long , I'm from Hai Duong , I'm a 2nd year student
 - 🔭 I’m currently working on Haui
 - 🌱 I’m currently learning IT
 - 👯 I’m looking to collaborate on ...
